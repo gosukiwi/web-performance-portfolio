@@ -1,0 +1,17 @@
+{
+  "name": "udportfolio",
+  "version": "0.0.0",
+  "description": "Website Optimization Course",
+  "main": "gulpfile.js",
+  "author": "Federico Ramirez",
+  "license": "MIT",
+  "homepage": "https://github.com/gosukiwi/web-performance-portfolio",
+  "devDependencies": {
+    "gulp": "^3.8.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-imagemin": "^0.6.1",
+    "gulp-minify-css": "^0.3.4",
+    "gulp-uglify": "^0.3.0",
+    "rimraf": "^2.2.8"
+  }
+}
